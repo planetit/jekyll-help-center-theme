@@ -7,10 +7,10 @@
 
 # Site settings
 title: "Help Center"
-email: gusquinalha@gmail.com
+email: info@planetgroupbd.com
 description: "Planet IT Technical Documentation"
 baseurl: "dev.planetgroupbd.com"
-url: "http://quinalha.me"
+url: "http://planetgroupbd.com"
 twitter_username: "gustavoquinalha"
 github_username:  "gustavoquinalha"
 color_theme:  "#0081ff"
